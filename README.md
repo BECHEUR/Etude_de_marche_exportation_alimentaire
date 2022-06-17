@@ -9,7 +9,7 @@ L’objectif final de cette étude est de mettre en évidence un groupe de pays 
 - Les données de la FAO (Food and Agriculture Organization) seront utilisées dans cette étude
 - Le langage utilisé est python
 
-## Plan de travail
+## Plan 
 1. Importation des librairies
 2. Importation des données
      - Préparation et nettoyage des données
