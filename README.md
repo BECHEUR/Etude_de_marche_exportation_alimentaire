@@ -17,6 +17,6 @@ L’objectif final de cette étude est de mettre en évidence un groupe de pays 
 3. Classification ascendante hiérarchique (CAH) (dendrogramme)
 4. K-means
 5. Analyse des groupes
-6. Analyse des composantes principales ( cercles des corrélation, ACP)
+6. Analyse des composantes principales ( cercles des corrélations, ACP)
 7. Exploration du cluster selectionné
 8. Conclusion
